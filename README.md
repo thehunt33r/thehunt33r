@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @thehunt33r
-- This account has been renamed
-- Go to https://github.com/mantoine96
+- 👋 Hi, I’m Matthieu
+- This account has been recently renamed
+- My account is now [here](https://github.com/mantoine96)
